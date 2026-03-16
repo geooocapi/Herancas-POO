@@ -1,0 +1,14 @@
+D:\portifolio - poo e djwi\poo\Atividade2(1)\AulaPOO\AulaPOO\obj\Debug\net10.0\AulaPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\portifolio - poo e djwi\poo\Atividade2(1)\AulaPOO\AulaPOO\obj\Debug\net10.0\AulaPOO.AssemblyInfoInputs.cache
+D:\portifolio - poo e djwi\poo\Atividade2(1)\AulaPOO\AulaPOO\obj\Debug\net10.0\AulaPOO.AssemblyInfo.cs
+D:\portifolio - poo e djwi\poo\Atividade2(1)\AulaPOO\AulaPOO\obj\Debug\net10.0\AulaPOO.csproj.CoreCompileInputs.cache
+D:\portifolio - poo e djwi\poo\Atividade2(1)\AulaPOO\AulaPOO\bin\Debug\net10.0\AulaPOO.exe
+D:\portifolio - poo e djwi\poo\Atividade2(1)\AulaPOO\AulaPOO\bin\Debug\net10.0\AulaPOO.deps.json
+D:\portifolio - poo e djwi\poo\Atividade2(1)\AulaPOO\AulaPOO\bin\Debug\net10.0\AulaPOO.runtimeconfig.json
+D:\portifolio - poo e djwi\poo\Atividade2(1)\AulaPOO\AulaPOO\bin\Debug\net10.0\AulaPOO.dll
+D:\portifolio - poo e djwi\poo\Atividade2(1)\AulaPOO\AulaPOO\bin\Debug\net10.0\AulaPOO.pdb
+D:\portifolio - poo e djwi\poo\Atividade2(1)\AulaPOO\AulaPOO\obj\Debug\net10.0\AulaPOO.dll
+D:\portifolio - poo e djwi\poo\Atividade2(1)\AulaPOO\AulaPOO\obj\Debug\net10.0\refint\AulaPOO.dll
+D:\portifolio - poo e djwi\poo\Atividade2(1)\AulaPOO\AulaPOO\obj\Debug\net10.0\AulaPOO.pdb
+D:\portifolio - poo e djwi\poo\Atividade2(1)\AulaPOO\AulaPOO\obj\Debug\net10.0\AulaPOO.genruntimeconfig.cache
+D:\portifolio - poo e djwi\poo\Atividade2(1)\AulaPOO\AulaPOO\obj\Debug\net10.0\ref\AulaPOO.dll
